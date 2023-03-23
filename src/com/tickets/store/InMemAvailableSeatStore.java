@@ -26,9 +26,10 @@ public class InMemAvailableSeatStore implements AvailableSeatsStore {
 
     public boolean allocateSeats(Train train, List<String> stations, Integer seats) {
         for (String station: stations) {
-            if () {
-
-            }
+//            if () {
+//
+//            }
         }
+        return false;
     }
 }
